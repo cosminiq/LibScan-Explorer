@@ -41,6 +41,7 @@ venv\Scripts\activate     # pe Windows
 pip install -r requirements.txt
 python analiza_bibliotecilor_Arduino_PlatformIO.py
 
+
 ## Imagini
 
 ### Prezentare 1
