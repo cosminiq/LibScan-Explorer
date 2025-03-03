@@ -1,5 +1,25 @@
 # Proiect de analiză a bibliotecilor Arduino și PlatformIO
 
+## Imagini
+
+### Prezentare 1
+
+![Prezentare 1](docs/prezentare1.png)
+
+### Prezentare 2
+
+![Prezentare 2](docs/prezentare2.png)
+
+### Prezentare 3
+
+![Prezentare 3](docs/prezentare3.png)
+
+### Prezentare 4
+
+![Prezentare 4](docs/prezentare4.png)
+
+
+
 Acest proiect permite analiza bibliotecilor folosite în proiectele Arduino și PlatformIO, crearea unui raport tehnic și vizualizarea acestuia într-o aplicație web interactivă.
 
 ## Descriere
@@ -41,22 +61,4 @@ venv\Scripts\activate     # pe Windows
 pip install -r requirements.txt
 python analiza_bibliotecilor_Arduino_PlatformIO.py
 
-
-## Imagini
-
-### Prezentare 1
-
-![Prezentare 1](docs/prezentare1.png)
-
-### Prezentare 2
-
-![Prezentare 2](docs/prezentare2.png)
-
-### Prezentare 3
-
-![Prezentare 3](docs/prezentare3.png)
-
-### Prezentare 4
-
-![Prezentare 4](docs/prezentare4.png)
 
