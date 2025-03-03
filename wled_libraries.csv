@@ -1,0 +1,279 @@
+name,version,latest_version,author,description,github_url,homepage,source,files_found_in
+${esp32.AR_lib_deps},,,,,,,platformio_ini,
+${esp32.lib_deps},,,,,,,platformio_ini,
+${esp32_idf_V4.lib_deps},,,,,,,platformio_ini,
+${esp32c3.lib_deps},,,,,,,platformio_ini,
+${esp32s2.lib_deps},,,,,,,platformio_ini,
+${esp32s3.lib_deps},,,,,,,platformio_ini,
+${esp8266.lib_deps},,,,,,,platformio_ini,
+4LD_wled_fonts.c,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/olikraus/u8g2,,code,usermods\usermod_v2_four_line_display_ALT\usermod_v2_four_line_display_ALT.h
+AHT10.h,,0.15.1.beta2,Gabriel A. Sieben  (GeoGab),handling of MQTT message,https://github.com/wled-dev/WLED,,code,usermods\AHT10_v2\usermod_aht10.h
+ANIMartRIX.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/olikraus/u8g2,,code,usermods\usermod_v2_animartrix\usermod_v2_animartrix.h
+Adafruit_ADS1X15.h,,0.15.1.beta2,Gabriel A. Sieben  (GeoGab),handling of MQTT message,https://github.com/wled-dev/WLED,,code,usermods\ADS1115_v2\usermod_ads1115.h
+Adafruit_BMP280.h,,,Christian Schwinne,Credits: Bouke_Regnerus @ https://community.home-assistant.io/t/example-indoor-air-quality-text-sensor-using-ccs811-sensor/125854,https://github.com/wled-dev/WLED,,code,usermods\sensors_to_mqtt\usermod_v2_SensorsToMqtt.h
+Adafruit_CCS811.h,,,Christian Schwinne,Credits: Bouke_Regnerus @ https://community.home-assistant.io/t/example-indoor-air-quality-text-sensor-using-ccs811-sensor/125854,https://github.com/wled-dev/WLED,,code,usermods\sensors_to_mqtt\usermod_v2_SensorsToMqtt.h
+Adafruit_MAX1704X.h,,,Christian Schwinne,constructor,https://github.com/jrowberg/i2cdevlib,,code,usermods\MAX17048_v2\usermod_max17048.h
+Adafruit_Sensor.h,,,Christian Schwinne,Credits: Bouke_Regnerus @ https://community.home-assistant.io/t/example-indoor-air-quality-text-sensor-using-ccs811-sensor/125854,https://github.com/wled-dev/WLED,,code,usermods\sensors_to_mqtt\usermod_v2_SensorsToMqtt.h
+Adafruit_Si7021.h,,,Christian Schwinne,Credits: Bouke_Regnerus @ https://community.home-assistant.io/t/example-indoor-air-quality-text-sensor-using-ccs811-sensor/125854,https://github.com/wled-dev/WLED,,code,"usermods\Si7021_MQTT_HA\usermod_si7021_mqtt_ha.h, usermods\sensors_to_mqtt\usermod_v2_SensorsToMqtt.h"
+Analog_Clock.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+Animated_Staircase.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+Arduino.h,6.18.1,3.1.2,Gabriel A. Sieben  (GeoGab),handling of MQTT message,https://github.com/esp8266/Arduino,,code,"lib\ESP8266PWM\src\core_esp8266_waveform_phase.cpp, usermods\BME280_v2\usermod_bme280.h, usermods\BME68X_v2\usermod_bme68x.h, usermods\EleksTube_IPS\Hardware.h, usermods\Enclosure_with_OLED_temp_ESP07\usermod.cpp, usermods\Enclosure_with_OLED_temp_ESP07\usermod_bme280.cpp, usermods\MY9291\MY92xx.h, usermods\Wemos_D1_mini+Wemos32_mini_shield\usermod.cpp, usermods\Wemos_D1_mini+Wemos32_mini_shield\usermod_bme280.cpp, usermods\buzzer\usermod_v2_buzzer.h, usermods\sensors_to_mqtt\usermod_v2_SensorsToMqtt.h, usermods\usermod_v2_RF433\usermod_v2_RF433.h, wled00\bus_manager.cpp, wled00\pin_manager.h, wled00\src\dependencies\dmx\ESPDMX.cpp, wled00\src\dependencies\dmx\SparkFunDMX.cpp, wled00\src\dependencies\e131\ESPAsyncE131.h, wled00\src\dependencies\espalexa\Espalexa.h, wled00\src\dependencies\espalexa\EspalexaDevice.h, wled00\src\dependencies\json\ArduinoJson-v6.h, wled00\src\dependencies\time\Time.cpp, wled00\src\dependencies\timezone\Timezone.h, wled00\src\dependencies\toki\Toki.h, wled00\wled.cpp, wled00\wled.h, wled00\wled_main.cpp, wled00\wled_math.cpp"
+ArduinoJson-v6.h,,,Christian Schwinne,"Flags that before the next effect is calculated,",https://github.com/kitesurfer1404/WS2812FX,,code,"wled00\fcn_declare.h, wled00\src\dependencies\json\AsyncJson-v6.h, wled00\wled.h"
+ArduinoOTA.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+AsyncJson-v6.h,,,Christian Schwinne,"Flags that before the next effect is calculated,",https://github.com/kitesurfer1404/WS2812FX,,code,"wled00\fcn_declare.h, wled00\wled.h"
+AsyncMqttClient.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+AsyncMqttClient.hpp,,,Christian Schwinne,,https://github.com/Rickgg/ESP-Dmx,,code,"wled00\src\dependencies\async-mqtt-client\AsyncMqttClient.cpp, wled00\src\dependencies\async-mqtt-client\AsyncMqttClient.h"
+AsyncTCP.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\src\dependencies\espalexa\Espalexa.h, wled00\wled.h"
+AsyncUDP.h,,,Christian Schwinne,,https://github.com/hideakitai/ArtNet,,code,wled00\src\dependencies\e131\ESPAsyncE131.h
+BH1750.h,,,Gabriel A. Sieben  (GeoGab),@file usermod_BMW68X.h,https://github.com/wled-dev/WLED,,code,usermods\BH1750_v2\usermod_bh1750.h
+BME280I2C.h,,,Gabriel A. Sieben  (GeoGab),@file usermod_BMW68X.h,https://github.com/wled-dev/WLED,,code,"usermods\BME280_v2\usermod_bme280.h, usermods\Enclosure_with_OLED_temp_ESP07\usermod_bme280.cpp, usermods\Wemos_D1_mini+Wemos32_mini_shield\usermod_bme280.cpp"
+ChannelSettings.h,,0.15.1.beta2,Gabriel A. Sieben  (GeoGab),handling of MQTT message,https://github.com/wled-dev/WLED,,code,usermods\ADS1115_v2\usermod_ads1115.h
+ChipSelect.h,,,Christian Schwinne,addToConfig() (called from set.cpp) stores persistent properties to cfg.json,https://github.com/aly-fly/EleksTubeHAX,,code,usermods\EleksTube_IPS\TFTs.h
+ConnAckPacket.hpp,,,Christian Schwinne,,https://github.com/Rickgg/ESP-Dmx,,code,wled00\src\dependencies\async-mqtt-client\AsyncMqttClient\Packets\ConnAckPacket.cpp
+DNSServer.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+DS1307RTC.h,,,Christian Schwinne,Credits: Bouke_Regnerus @ https://community.home-assistant.io/t/example-indoor-air-quality-text-sensor-using-ccs811-sensor/125854,https://github.com/wled-dev/WLED,,code,"usermods\RTC\usermod_rtc.h, wled00\src\dependencies\time\DS1307RTC.cpp"
+DallasTemperature.h,,,Christian Schwinne,Enable/Disable the usermod,https://github.com/olikraus/u8g2,,code,usermods\Enclosure_with_OLED_temp_ESP07\usermod.cpp
+EEPROM.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\wled.h, wled00\wled_eeprom.cpp"
+ESP8266WebServer.h,,,Christian Schwinne,,https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch,,code,wled00\src\dependencies\espalexa\Espalexa.h
+ESP8266WiFi.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\src\dependencies\e131\ESPAsyncE131.h, wled00\src\dependencies\espalexa\Espalexa.h, wled00\src\dependencies\network\Network.h, wled00\wled.h"
+ESP8266WiFiMulti.h,,,Christian Schwinne,,https://github.com/hideakitai/ArtNet,,code,wled00\src\dependencies\e131\ESPAsyncE131.h
+ESP8266mDNS.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+ESPAsyncE131.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\src\dependencies\e131\ESPAsyncE131.cpp, wled00\wled.h"
+ESPAsyncTCP.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\src\dependencies\espalexa\Espalexa.h, wled00\wled.h"
+ESPAsyncUDP.h,,,Christian Schwinne,,https://github.com/hideakitai/ArtNet,,code,wled00\src\dependencies\e131\ESPAsyncE131.h
+ESPAsyncWebServer.h,,,Christian Schwinne,"Flags that before the next effect is calculated,",https://github.com/kitesurfer1404/WS2812FX,,code,"wled00\fcn_declare.h, wled00\src\dependencies\espalexa\Espalexa.h, wled00\wled.h"
+ESPDMX.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\src\dependencies\dmx\ESPDMX.cpp, wled00\wled.h"
+ESPRotary.h,,,Christian Schwinne,Enable/Disable the usermod,https://github.com/wled-dev/WLED,,code,usermods\rgb-rotary-encoder\rgb-rotary-encoder.h
+ESPmDNS.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+ETH.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\src\dependencies\network\Network.h, wled00\wled.h"
+EnvironmentCalculations.h,,,Gabriel A. Sieben  (GeoGab),@file usermod_BMW68X.h,https://github.com/wled-dev/WLED,,code,"usermods\BME280_v2\usermod_bme280.h, usermods\Si7021_MQTT_HA\usermod_si7021_mqtt_ha.h"
+Espalexa.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\src\dependencies\espalexa\Espalexa.h, wled00\wled.h"
+EspalexaDevice.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch,,code,"wled00\alexa.cpp, wled00\src\dependencies\espalexa\Espalexa.h, wled00\src\dependencies\espalexa\EspalexaDevice.cpp, wled00\wled.h"
+FS.h,,,Christian Schwinne,addToConfig() (called from set.cpp) stores persistent properties to cfg.json,https://github.com/aly-fly/EleksTubeHAX,,code,usermods\EleksTube_IPS\TFTs.h
+FX.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,"usermods\TetrisAI_v2\usermod_v2_tetrisai.h, wled00\FX.cpp, wled00\FX_2Dfcn.cpp, wled00\FX_fcn.cpp, wled00\fcn_declare.h, wled00\wled.h"
+FXparticleSystem.h,,,Christian Schwinne,"Flags that before the next effect is calculated,",https://github.com/kitesurfer1404/WS2812FX,,code,"wled00\FX.cpp, wled00\FX_fcn.cpp, wled00\FXparticleSystem.cpp"
+FastLED.h,,,Christian Schwinne,"Flags that before the next effect is calculated,",https://github.com/wled-dev/WLED,,code,"wled00\FX.h, wled00\wled.h"
+Geometry,,,Christian Schwinne,constructor,https://github.com/jrowberg/i2cdevlib,,code,usermods\mpu6050_imu\usermod_gyro_surge.h
+GifDecoder.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\image_loader.cpp
+Hardware.h,,,Christian Schwinne,addToConfig() (called from set.cpp) stores persistent properties to cfg.json,https://github.com/aly-fly/EleksTubeHAX,,code,"usermods\EleksTube_IPS\ChipSelect.h, usermods\EleksTube_IPS\TFTs.h"
+HardwareSerial.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\src\dependencies\dmx\SparkFunDMX.cpp, wled00\wled.h"
+Hash.h,,,Christian Schwinne,Modes and palettes are stored as strings that,https://github.com/roelbroersma/WLED-usermodv2_HttpPullLightControl,,code,usermods\usermod_v2_HttpPullLightControl\usermod_v2_HttpPullLightControl.h
+I2Cdev.h,,,Christian Schwinne,constructor,https://github.com/jrowberg/i2cdevlib,,code,usermods\mpu6050_imu\usermod_mpu6050_imu.h
+INA226_WE.h,,,Christian Schwinne,onMqttConnect() is called when MQTT connection is established,https://github.com/jrowberg/i2cdevlib,,code,usermods\INA226_v2\usermod_ina226.h
+IPAddress.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/wled-dev/WLED,,code,"wled00\NodeStruct.h, wled00\bus_manager.cpp"
+IRrecv.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+IRremoteESP8266.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+IRutils.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+Keypad.h,,,Gabriel A. Sieben  (GeoGab),@file usermod_BMW68X.h,https://github.com/wled-dev/WLED,,code,usermods\battery_keypad_controller\wled06_usermod.ino
+LITTLEFS.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+LionUMBattery.h,,,Gabriel A. Sieben  (GeoGab),Helper for rounding floating point values,https://github.com/atuline/WLED,,code,usermods\Battery\usermod_v2_Battery.h
+LipoUMBattery.h,,,Gabriel A. Sieben  (GeoGab),Helper for rounding floating point values,https://github.com/atuline/WLED,,code,usermods\Battery\usermod_v2_Battery.h
+LittleFS.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+MPU6050.h,,,Christian Schwinne,constructor,https://github.com/jrowberg/i2cdevlib,,code,usermods\mpu6050_imu\usermod_mpu6050_imu.h
+MPU6050_6Axis_MotionApps20.h,,,Christian Schwinne,constructor,https://github.com/jrowberg/i2cdevlib,,code,usermods\mpu6050_imu\usermod_mpu6050_imu.h
+MY92xx.h,,,Christian Schwinne,check if it is daytime,https://github.com/wled-dev/WLED,,code,usermods\MY9291\usermode_MY9291.h
+NeoPixelBusLg.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/Makuna/NeoPixelBus,,code,wled00\bus_wrapper.h
+Network.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\src\dependencies\e131\ESPAsyncE131.cpp, wled00\src\dependencies\espalexa\Espalexa.h, wled00\src\dependencies\network\Network.cpp, wled00\wled.h"
+NodeStruct.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+OneWire.h,,,Christian Schwinne,connected() is called every time the WiFi is (re)connected,https://github.com/wled-dev/WLED,,code,"usermods\Temperature\usermod_temperature.h, usermods\Wemos_D1_mini+Wemos32_mini_shield\usermod.cpp"
+PNGdec.h,,,Christian Schwinne,readFromConfig() is called before setup() to populate properties from values stored in cfg.json,https://github.com/KlausMu/esp32-fan-controller,,code,usermods\pov_display\usermod_pov_display.h
+PingRespPacket.hpp,,,Christian Schwinne,,https://github.com/Rickgg/ESP-Dmx,,code,wled00\src\dependencies\async-mqtt-client\AsyncMqttClient\Packets\PingRespPacket.cpp
+Print.h,,,,,https://github.com/baggior/ESPAsyncWebServer,,code,wled00\src\dependencies\json\AsyncJson-v6.h
+PubAckPacket.hpp,,,Christian Schwinne,,https://github.com/Rickgg/ESP-Dmx,,code,wled00\src\dependencies\async-mqtt-client\AsyncMqttClient\Packets\PubAckPacket.cpp
+PubCompPacket.hpp,,,Christian Schwinne,,https://github.com/Rickgg/ESP-Dmx,,code,wled00\src\dependencies\async-mqtt-client\AsyncMqttClient\Packets\PubCompPacket.cpp
+PubRecPacket.hpp,,,Christian Schwinne,,https://github.com/Rickgg/ESP-Dmx,,code,wled00\src\dependencies\async-mqtt-client\AsyncMqttClient\Packets\PubRecPacket.cpp
+PubRelPacket.hpp,,,Christian Schwinne,,https://github.com/Rickgg/ESP-Dmx,,code,wled00\src\dependencies\async-mqtt-client\AsyncMqttClient\Packets\PubRelPacket.cpp
+PublishPacket.hpp,,,Christian Schwinne,,https://github.com/Rickgg/ESP-Dmx,,code,wled00\src\dependencies\async-mqtt-client\AsyncMqttClient\Packets\PublishPacket.cpp
+QuickEspNow.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+RCSwitch.h,,,Christian Schwinne,Modes and palettes are stored as strings that,https://github.com/wled-dev/WLED,,code,usermods\usermod_v2_RF433\usermod_v2_RF433.h
+SD.h,,,Christian Schwinne,Credits: Bouke_Regnerus @ https://community.home-assistant.io/t/example-indoor-air-quality-text-sensor-using-ccs811-sensor/125854,https://github.com/wled-dev/WLED,,code,"usermods\sd_card\usermod_sd_card.h, wled00\usermods_list.cpp"
+SD_MMC.h,,,Christian Schwinne,Credits: Bouke_Regnerus @ https://community.home-assistant.io/t/example-indoor-air-quality-text-sensor-using-ccs811-sensor/125854,https://github.com/wled-dev/WLED,,code,"usermods\sd_card\usermod_sd_card.h, wled00\usermods_list.cpp"
+SHT85.h,,,Christian Schwinne,readFromConfig() is called before setup() to populate properties from values stored in cfg.json,https://github.com/wled-dev/WLED,,code,"usermods\quinled-an-penta\quinled-an-penta.h, usermods\sht\usermod_sht.h"
+SPI.h,,,Christian Schwinne,Credits: Bouke_Regnerus @ https://community.home-assistant.io/t/example-indoor-air-quality-text-sensor-using-ccs811-sensor/125854,https://github.com/wled-dev/WLED,,code,"usermods\ST7789_display\ST7789_display.h, usermods\TTGO-T-Display\usermod.cpp, usermods\sd_card\usermod_sd_card.h, wled00\usermods_list.cpp, wled00\wled.h"
+SPIFFSEditor.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+ST7789_Display.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+SparkFunDMX.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\src\dependencies\dmx\SparkFunDMX.cpp, wled00\wled.h"
+SubAckPacket.hpp,,,Christian Schwinne,,https://github.com/Rickgg/ESP-Dmx,,code,wled00\src\dependencies\async-mqtt-client\AsyncMqttClient\Packets\SubAckPacket.cpp
+TFT_eSPI.h,,,Christian Schwinne,addToConfig() (called from set.cpp) stores persistent properties to cfg.json,https://github.com/aly-fly/EleksTubeHAX,,code,"usermods\EleksTube_IPS\TFTs.h, usermods\ST7789_display\ST7789_display.h, usermods\TTGO-T-Display\usermod.cpp, usermods\pixels_dice_tray\roll_info.h, usermods\pixels_dice_tray\tft_menu.h"
+TFTs.h,,,Christian Schwinne,addToConfig() (called from set.cpp) stores persistent properties to cfg.json,https://github.com/SmittyHalibut/EleksTubeHAX,,code,usermods\EleksTube_IPS\usermod_elekstube_ips.h
+Time,1.5,,,Time keeping library,https://github.com/PaulStoffregen/Time,http://playground.arduino.cc/Code/Time,arduino_library_json,
+TimeLib.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,"wled00\src\dependencies\time\DS1307RTC.h, wled00\src\dependencies\time\DateStrings.cpp, wled00\src\dependencies\time\Time.cpp, wled00\src\dependencies\timezone\Timezone.cpp, wled00\src\dependencies\timezone\Timezone.h, wled00\wled.h"
+Timezone.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/taranais/NTPClient,,code,"wled00\ntp.cpp, wled00\src\dependencies\timezone\Timezone.cpp, wled00\wled.h"
+TinyWireM.h,,,,,https://github.com/idispatch/raster-fonts,,code,wled00\src\dependencies\time\DS1307RTC.cpp
+Toki.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+U8g2lib.h,,,Christian Schwinne,readFromConfig() is called before setup() to populate properties from values stored in cfg.json,https://github.com/wled-dev/WLED,,code,usermods\quinled-an-penta\quinled-an-penta.h
+U8x8lib.h,,,Christian Schwinne,Enable/Disable the usermod,https://github.com/olikraus/u8g2,,code,"usermods\Enclosure_with_OLED_temp_ESP07\usermod.cpp, usermods\Enclosure_with_OLED_temp_ESP07\usermod_bme280.cpp, usermods\Wemos_D1_mini+Wemos32_mini_shield\usermod.cpp, usermods\Wemos_D1_mini+Wemos32_mini_shield\usermod_bme280.cpp, usermods\usermod_v2_four_line_display_ALT\usermod_v2_four_line_display_ALT.h"
+UMBattery.h,,,Gabriel A. Sieben  (GeoGab),Helper for rounding floating point values,https://github.com/atuline/WLED,,code,"usermods\Battery\types\LionUMBattery.h, usermods\Battery\types\LipoUMBattery.h, usermods\Battery\types\UnkownUMBattery.h, usermods\Battery\usermod_v2_Battery.h"
+UnkownUMBattery.h,,,Gabriel A. Sieben  (GeoGab),Helper for rounding floating point values,https://github.com/atuline/WLED,,code,usermods\Battery\usermod_v2_Battery.h
+UnsubAckPacket.hpp,,,Christian Schwinne,,https://github.com/Rickgg/ESP-Dmx,,code,wled00\src\dependencies\async-mqtt-client\AsyncMqttClient\Packets\UnsubAckPacket.cpp
+VL53L0X.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/olikraus/u8g2,,code,usermods\VL53L0X_gestures\usermod_vl53l0x_gestures.h
+WProgram.h,,,,,https://github.com/idispatch/raster-fonts,,code,"wled00\src\dependencies\time\Time.cpp, wled00\src\dependencies\timezone\Timezone.h"
+WString.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/letscontrolit/ESPEasy,,code,wled00\net_debug.h
+WebServer.h,,,Christian Schwinne,,https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch,,code,wled00\src\dependencies\espalexa\Espalexa.h
+WiFi.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,"usermods\TTGO-T-Display\usermod.cpp, wled00\src\dependencies\e131\ESPAsyncE131.h, wled00\src\dependencies\espalexa\Espalexa.h, wled00\src\dependencies\network\Network.h, wled00\wled.h"
+WiFiUdp.h,,0.15.1.beta2,Gabriel A. Sieben  (GeoGab),handleButton() can be used to override default button behaviour. Returning true,https://github.com/wled-dev/WLED,,code,"usermods\Artemis_reciever\usermod.cpp, usermods\wizlights\wizlights.h, wled00\net_debug.h, wled00\src\dependencies\espalexa\Espalexa.h, wled00\wled.h"
+Wire.h,,,Christian Schwinne,Enable/Disable the usermod,https://github.com/olikraus/u8g2,,code,"usermods\Enclosure_with_OLED_temp_ESP07\usermod_bme280.cpp, usermods\TTGO-T-Display\usermod.cpp, usermods\VL53L0X_gestures\usermod_vl53l0x_gestures.h, usermods\Wemos_D1_mini+Wemos32_mini_shield\usermod_bme280.cpp, usermods\mpu6050_imu\usermod_mpu6050_imu.h, usermods\quinled-an-penta\quinled-an-penta.h, wled00\src\dependencies\time\DS1307RTC.cpp, wled00\wled.h"
+WireGuard-ESP32.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch,,code,usermods\wireguard\wireguard.h
+adc.h,,0.15.1.beta2,Gabriel A. Sieben  (GeoGab),handleButton() can be used to override default button behaviour. Returning true,https://github.com/wled-dev/WLED,,code,"usermods\audioreactive\audio_reactive.h, usermods\audioreactive\audio_source.h"
+adc_deprecated.h,,5.2.5,Gabriel A. Sieben  (GeoGab),Battery base class,https://github.com/espressif/esp-idf,,code,usermods\audioreactive\audio_source.h
+adc_types_deprecated.h,,5.2.5,Gabriel A. Sieben  (GeoGab),Battery base class,https://github.com/espressif/esp-idf,,code,usermods\audioreactive\audio_source.h
+algorithm,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,usermods\TetrisAI_v2\tetrisbag.h
+arduinoFFT.h,,0.15.1.beta2,Gabriel A. Sieben  (GeoGab),handleButton() can be used to override default button behaviour. Returning true,https://github.com/wled-dev/WLED,,code,usermods\audioreactive\audio_reactive.h
+assert.h,,,,,https://github.com/baggior/ESPAsyncWebServer,,code,wled00\src\dependencies\json\ArduinoJson-v6.h
+atomic,,3.1.2,Gabriel A. Sieben  (GeoGab),handling of MQTT message,https://github.com/esp8266/Arduino,,code,"lib\ESP8266PWM\src\core_esp8266_waveform_phase.cpp, wled00\dmx_input.h"
+audio_reactive.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+audio_source.h,,0.15.1.beta2,Gabriel A. Sieben  (GeoGab),handleButton() can be used to override default button behaviour. Returning true,https://github.com/wled-dev/WLED,,code,usermods\audioreactive\audio_reactive.h
+battery_defaults.h,,,Gabriel A. Sieben  (GeoGab),Battery base class,https://github.com/atuline/WLED,,code,"usermods\Battery\UMBattery.h, usermods\Battery\types\LionUMBattery.h, usermods\Battery\types\LipoUMBattery.h, usermods\Battery\types\UnkownUMBattery.h, usermods\Battery\usermod_v2_Battery.h"
+bitset,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,usermods\TetrisAI_v2\pieces.h
+boblight.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+bsec.h,,,Gabriel A. Sieben  (GeoGab),@file usermod_BMW68X.h,https://github.com/wled-dev/WLED,,code,usermods\BME68X_v2\usermod_bme68x.h
+bsec_iaq.txt,,,Gabriel A. Sieben  (GeoGab),@file usermod_BMW68X.h,https://github.com/wled-dev/WLED,,code,usermods\BME68X_v2\usermod_bme68x.h
+bus_manager.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/wled-dev/WLED,,code,"wled00\FX.h, wled00\bus_manager.cpp, wled00\wled.h"
+bus_wrapper.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/wled-dev/WLED,,code,wled00\bus_manager.cpp
+cassert,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,usermods\TetrisAI_v2\pieces.h
+console_font_4x6.h,,,Christian Schwinne,"If reset of this segment was requested, clears runtime",https://github.com/wled-dev/WLED,,code,wled00\FX_2Dfcn.cpp
+console_font_5x12.h,,,Christian Schwinne,"If reset of this segment was requested, clears runtime",https://github.com/wled-dev/WLED,,code,wled00\FX_2Dfcn.cpp
+console_font_5x8.h,,,Christian Schwinne,"If reset of this segment was requested, clears runtime",https://github.com/wled-dev/WLED,,code,wled00\FX_2Dfcn.cpp
+console_font_6x8.h,,,Christian Schwinne,"If reset of this segment was requested, clears runtime",https://github.com/wled-dev/WLED,,code,wled00\FX_2Dfcn.cpp
+console_font_7x9.h,,,Christian Schwinne,"If reset of this segment was requested, clears runtime",https://github.com/wled-dev/WLED,,code,wled00\FX_2Dfcn.cpp
+const.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/wled-dev/WLED,,code,"wled00\FX.h, wled00\bus_manager.cpp, wled00\bus_manager.h, wled00\pin_manager.h, wled00\util.cpp, wled00\wled.h"
+core_esp8266_waveform.h,,3.1.2,Gabriel A. Sieben  (GeoGab),handling of MQTT message,https://github.com/esp8266/Arduino,,code,"lib\ESP8266PWM\src\core_esp8266_waveform_phase.cpp, wled00\bus_manager.cpp"
+cstddef,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,usermods\TetrisAI_v2\pieces.h
+cstdint,,,Christian Schwinne,Checks if the global dmx config has changed and updates the changes in rdm,https://github.com/someweisguy/esp_dmx,,code,wled00\dmx_input.h
+debug.h,,3.1.2,Gabriel A. Sieben  (GeoGab),handling of MQTT message,https://github.com/esp8266/Arduino,,code,lib\ESP8266PWM\src\core_esp8266_waveform_phase.cpp
+deque,,,Christian Schwinne,addToConfig() (called from set.cpp) stores persistent properties to cfg.json,https://github.com/wled-dev/WLED,,code,usermods\buzzer\usermod_v2_buzzer.h
+dht_nonblocking.h,,,Christian Schwinne,addToConfig() (called from set.cpp) stores persistent properties to cfg.json,https://github.com/aly-fly/EleksTubeHAX,,code,usermods\DHT\usermod_dht.h
+dice_state.h,,,Christian Schwinne,The LED effects influenced by dice rolls.,https://github.com/axlan/arduino-pixels-dice,,code,"usermods\pixels_dice_tray\led_effects.h, usermods\pixels_dice_tray\pixels_dice_tray.h, usermods\pixels_dice_tray\tft_menu.h"
+dmx_input.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/someweisguy/esp_dmx,,code,"wled00\dmx_input.cpp, wled00\wled.h"
+eeprom.h,,,,,https://github.com/idispatch/raster-fonts,,code,wled00\src\dependencies\timezone\Timezone.cpp
+eigen.h,,,Christian Schwinne,constructor,https://github.com/jrowberg/i2cdevlib,,code,usermods\mpu6050_imu\usermod_gyro_surge.h
+esp_dmx.h,,,Christian Schwinne,Checks if the global dmx config has changed and updates the changes in rdm,https://github.com/someweisguy/esp_dmx,,code,wled00\dmx_input.h
+esp_now.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+esp_spiffs.h,,,Christian Schwinne,"Flags that before the next effect is calculated,",https://github.com/kitesurfer1404/WS2812FX,,code,wled00\file.cpp
+esp_task_wdt.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+esp_timer.h,,0.15.1.beta2,Gabriel A. Sieben  (GeoGab),handleButton() can be used to override default button behaviour. Returning true,https://github.com/wled-dev/WLED,,code,usermods\audioreactive\audio_reactive.h
+esp_wifi.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+espnow.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+ets_sys.h,,3.1.2,Gabriel A. Sieben  (GeoGab),handling of MQTT message,https://github.com/esp8266/Arduino,,code,lib\ESP8266PWM\src\core_esp8266_waveform_phase.cpp
+fcn_declare.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,"usermods\TetrisAI_v2\usermod_v2_tetrisai.h, wled00\FX.cpp, wled00\network.cpp, wled00\ntp.cpp, wled00\util.cpp, wled00\wled.h"
+float.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,usermods\TetrisAI_v2\rating.h
+functional,,,,,https://github.com/baggior/ESPAsyncWebServer,,code,wled00\src\dependencies\espalexa\EspalexaDevice.h
+gpio.h,,,Gabriel A. Sieben  (GeoGab),Battery base class,https://github.com/espressif/esp-idf,,code,usermods\audioreactive\audio_source.h
+gridbw.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,"usermods\TetrisAI_v2\gridcolor.h, usermods\TetrisAI_v2\tetrisai.h"
+gridcolor.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,"usermods\TetrisAI_v2\gridcolor.h, usermods\TetrisAI_v2\tetrisaigame.h"
+html_cpal.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/Rickgg/ESP-Dmx,,code,wled00\wled_server.cpp
+html_other.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/Rickgg/ESP-Dmx,,code,wled00\wled_server.cpp
+html_pixart.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/Rickgg/ESP-Dmx,,code,wled00\wled_server.cpp
+html_pxmagic.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/Rickgg/ESP-Dmx,,code,wled00\wled_server.cpp
+html_settings.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/Rickgg/ESP-Dmx,,code,wled00\wled_server.cpp
+html_ui.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/Rickgg/ESP-Dmx,,code,wled00\wled_server.cpp
+i2s.h,,0.15.1.beta2,Gabriel A. Sieben  (GeoGab),handleButton() can be used to override default button behaviour. Returning true,https://github.com/wled-dev/WLED,,code,"usermods\audioreactive\audio_reactive.h, usermods\audioreactive\audio_source.h"
+i2s_pdm.h,,,Gabriel A. Sieben  (GeoGab),Battery base class,https://github.com/espressif/esp-idf,,code,usermods\audioreactive\audio_source.h
+i2s_reg.h,,5.2.5,Gabriel A. Sieben  (GeoGab),Battery base class,https://github.com/espressif/esp-idf,,code,usermods\audioreactive\audio_source.h
+i2s_std.h,,,Gabriel A. Sieben  (GeoGab),Battery base class,https://github.com/espressif/esp-idf,,code,usermods\audioreactive\audio_source.h
+i2s_tdm.h,,,Gabriel A. Sieben  (GeoGab),Battery base class,https://github.com/espressif/esp-idf,,code,usermods\audioreactive\audio_source.h
+igmp.h,,,Christian Schwinne,,https://github.com/hideakitai/ArtNet,,code,wled00\src\dependencies\e131\ESPAsyncE131.h
+inttypes.h,,,Christian Schwinne,,https://github.com/Rickgg/ESP-Dmx,,code,"wled00\src\dependencies\dmx\ESPDMX.h, wled00\src\dependencies\dmx\SparkFunDMX.h, wled00\src\dependencies\time\TimeLib.h"
+iostream,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,usermods\TetrisAI_v2\pieces.h
+ip_addr.h,,,Christian Schwinne,,https://github.com/hideakitai/ArtNet,,code,wled00\src\dependencies\e131\ESPAsyncE131.h
+ir_codes.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\ir.cpp
+istream,,,,,https://github.com/baggior/ESPAsyncWebServer,,code,wled00\src\dependencies\json\ArduinoJson-v6.h
+iterator,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,usermods\TetrisAI_v2\gridbw.h
+ld2410.h,,,Christian Schwinne,onMqttConnect() is called when MQTT connection is established,https://github.com/jrowberg/i2cdevlib,,code,usermods\LD2410_v2\usermod_ld2410.h
+led_effects.h,,,Christian Schwinne,handleButton() can be used to override default button behaviour. Returning true,https://github.com/axlan/arduino-pixels-dice,,code,usermods\pixels_dice_tray\pixels_dice_tray.h
+ledc.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/wled-dev/WLED,,code,"wled00\bus_manager.cpp, wled00\pin_manager.h"
+ledc_struct.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/wled-dev/WLED,,code,wled00\bus_manager.cpp
+map,,,Christian Schwinne,Handles the request for a static file.,https://github.com/letscontrolit/ESPEasy,,code,wled00\NodeStruct.h
+math.h,,0.15.1.beta2,Gabriel A. Sieben  (GeoGab),handling of MQTT message,https://github.com/wled-dev/WLED,,code,"usermods\ADS1115_v2\usermod_ads1115.h, usermods\TetrisAI_v2\rating.h, usermods\rgb-rotary-encoder\rgb-rotary-encoder.h, wled00\fcn_declare.h"
+memory,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/Makuna/NeoPixelBus,,code,wled00\bus_manager.h
+mutex,,,Christian Schwinne,Checks if the global dmx config has changed and updates the changes in rdm,https://github.com/someweisguy/esp_dmx,,code,wled00\dmx_input.h
+my_config.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+net_debug.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/Makuna/NeoPixelBus,,code,"wled00\bus_manager.h, wled00\wled.h"
+ostream,,,,,https://github.com/baggior/ESPAsyncWebServer,,code,wled00\src\dependencies\json\ArduinoJson-v6.h
+palettes.h,,,Christian Schwinne,"If reset of this segment was requested, clears runtime",https://github.com/wled-dev/WLED,,code,"wled00\FX_2Dfcn.cpp, wled00\FX_fcn.cpp, wled00\json.cpp"
+pgmspace.h,,,,,https://github.com/idispatch/raster-fonts,,code,wled00\src\dependencies\time\DateStrings.cpp
+pieces.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,"usermods\TetrisAI_v2\gridbw.h, usermods\TetrisAI_v2\tetrisaigame.h"
+pin_manager.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/wled-dev/WLED,,code,"wled00\bus_manager.cpp, wled00\bus_manager.h, wled00\pin_manager.cpp, wled00\wled.h, wled00\wled_ethernet.h"
+ping.h,,,Christian Schwinne,setup() is called once at boot. WiFi is not yet connected at this point.,https://github.com/wled-dev/WLED,,code,usermods\Fix_unreachable_netservices_v2\usermod_Fix_unreachable_netservices.h
+pixels_dice_interface.h,,,Christian Schwinne,Structs for passing around usermod state,https://github.com/axlan/arduino-pixels-dice,,code,"usermods\pixels_dice_tray\dice_state.h, usermods\pixels_dice_tray\pixels_dice_tray.h, usermods\pixels_dice_tray\tft_menu.h"
+pixels_dice_tray.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+quinled-an-penta.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+rating.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,"usermods\TetrisAI_v2\rating.h, usermods\TetrisAI_v2\tetrisai.h"
+responder.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/someweisguy/esp_dmx,,code,wled00\dmx_input.cpp
+rgb-rotary-encoder.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+roll_info.h,,,Christian Schwinne,Code for using the 128x128 LCD and two buttons on the T-QT Pro as a GUI.,https://github.com/axlan/arduino-pixels-dice,,code,usermods\pixels_dice_tray\tft_menu.h
+rtc.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/Makuna/NeoPixelBus,,code,"wled00\bus_manager.h, wled00\wled.h"
+rtc_cntl_reg.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/esp8266/Arduino,,code,wled00\wled.cpp
+rtc_io.h,,,Christian Schwinne,addToConfig() (called from set.cpp) stores persistent properties to cfg.json,https://github.com/aly-fly/EleksTubeHAX,,code,usermods\deep_sleep\usermod_deep_sleep.h
+sha1.h,,,Christian Schwinne,Modes and palettes are stored as strings that,https://github.com/roelbroersma/WLED-usermodv2_HttpPullLightControl,,code,usermods\usermod_v2_HttpPullLightControl\usermod_v2_HttpPullLightControl.h
+soc.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/esp8266/Arduino,,code,wled00\wled.cpp
+stairway-wipe-usermod-v2.h,,,Christian Schwinne,connected() is called every time the WiFi is (re)connected,https://github.com/wled-dev/WLED,,code,"usermods\stairway_wipe_basic\stairway-wipe-usermod-v2.h, wled00\usermods_list.cpp"
+stdbool.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,"usermods\TetrisAI_v2\gridcolor.h, usermods\TetrisAI_v2\pieces.h, usermods\TetrisAI_v2\rating.h, usermods\TetrisAI_v2\tetrisaigame.h"
+stddef.h,,,,,https://github.com/baggior/ESPAsyncWebServer,,code,wled00\src\dependencies\json\ArduinoJson-v6.h
+stdint.h,,,Christian Schwinne,addToConfig() (called from set.cpp) stores persistent properties to cfg.json,https://github.com/aly-fly/EleksTubeHAX,,code,"usermods\EleksTube_IPS\Hardware.h, usermods\TetrisAI_v2\gridcolor.h, usermods\TetrisAI_v2\pieces.h, usermods\TetrisAI_v2\rating.h, usermods\TetrisAI_v2\tetrisaigame.h, usermods\TetrisAI_v2\tetrisbag.h, wled00\FXparticleSystem.h, wled00\src\dependencies\json\ArduinoJson-v6.h"
+stdlib.h,,,,,https://github.com/baggior/ESPAsyncWebServer,,code,wled00\src\dependencies\json\ArduinoJson-v6.h
+string,,,,,https://github.com/baggior/ESPAsyncWebServer,,code,wled00\src\dependencies\json\ArduinoJson-v6.h
+string.h,,,Christian Schwinne,,https://github.com/hideakitai/ArtNet,,code,"wled00\src\dependencies\e131\ESPAsyncE131.cpp, wled00\src\dependencies\json\ArduinoJson-v6.h, wled00\src\dependencies\time\DateStrings.cpp"
+string_view,,,,,https://github.com/baggior/ESPAsyncWebServer,,code,wled00\src\dependencies\json\ArduinoJson-v6.h
+tetrisai.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,usermods\TetrisAI_v2\tetrisaigame.h
+tetrisaigame.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,usermods\TetrisAI_v2\usermod_v2_tetrisai.h
+tetrisbag.h,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,"usermods\TetrisAI_v2\tetrisaigame.h, usermods\TetrisAI_v2\tetrisbag.h"
+tft_menu.h,,,Christian Schwinne,handleButton() can be used to override default button behaviour. Returning true,https://github.com/axlan/arduino-pixels-dice,,code,usermods\pixels_dice_tray\pixels_dice_tray.h
+types.h,,,,,https://github.com/idispatch/raster-fonts,,code,wled00\src\dependencies\time\TimeLib.h
+unique_ptr.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/wled-dev/WLED,,code,wled00\bus_manager.cpp
+user_interface.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\wled.h
+usermod_LDR_Dusk_Dawn_v2.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_PIR_sensor_switch.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_PWM_fan.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_ads1115.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_aht10.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_bh1750.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_bme280.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_bme68x.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_cronixie.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_deep_sleep.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_dht.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_elekstube_ips.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_filename.h,,,Christian Schwinne,addToConfig() (called from set.cpp) stores persistent properties to cfg.json,https://github.com/wled-dev/WLED,,code,"usermods\EXAMPLE_v2\usermod_v2_example.h, usermods\Fix_unreachable_netservices_v2\usermod_Fix_unreachable_netservices.h, usermods\buzzer\usermod_v2_buzzer.h, usermods\mpu6050_imu\usermod_mpu6050_imu.h"
+usermod_gyro_surge.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_ina226.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_internal_temperature.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_ld2410.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_max17048.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_mpu6050_imu.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_multi_relay.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_pov_display.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_pwm_outputs.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_rotary_brightness_color.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_rtc.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_sd_card.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_seven_segment_reloaded.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_sht.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_si7021_mqtt_ha.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_smartnest.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_sn_photoresistor.h,,,Christian Schwinne,addToConfig() (called from set.cpp) stores persistent properties to cfg.json,https://github.com/wled-dev/WLED,,code,"usermods\SN_Photoresistor\usermods_list.cpp, wled00\usermods_list.cpp"
+usermod_temperature.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_Battery.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_HttpPullLightControl.h,,,Christian Schwinne,Modes and palettes are stored as strings that,https://github.com/roelbroersma/WLED-usermodv2_HttpPullLightControl,,code,"usermods\usermod_v2_HttpPullLightControl\usermod_v2_HttpPullLightControl.cpp, wled00\usermods_list.cpp"
+usermod_v2_RF433.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_SensorsToMqtt.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_animartrix.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_auto_save.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_brightness_follow_sun.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_buzzer.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_example.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_four_line_display_ALT.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_klipper_percentage.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_ping_pong_clock.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_rotary_encoder_ui_ALT.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_seven_segment_display.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_tetrisai.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_v2_word_clock.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermod_vl53l0x_gestures.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+usermode_MY9291.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+vector,,,Christian Schwinne,Wrappers for screen drawing,https://github.com/wled-dev/WLED,,code,"usermods\TetrisAI_v2\gridbw.h, usermods\TetrisAI_v2\gridcolor.h, usermods\TetrisAI_v2\rating.h, usermods\TetrisAI_v2\tetrisaigame.h, usermods\TetrisAI_v2\tetrisbag.h, wled00\FX.h, wled00\bus_manager.h"
+wdev_reg.h,,,Christian Schwinne,"Flags that before the next effect is calculated,",https://github.com/kitesurfer1404/WS2812FX,,code,wled00\fcn_declare.h
+wireguard.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+wizlights.h,,,Christian Schwinne,Handles the request for a static file.,https://github.com/wled-dev/WLED,,code,wled00\usermods_list.cpp
+wled.h,,0.15.1.beta2,Gabriel A. Sieben  (GeoGab),handling of MQTT message,https://github.com/wled-dev/WLED,,code,"usermods\ADS1115_v2\ChannelSettings.h, usermods\ADS1115_v2\usermod_ads1115.h, usermods\AHT10_v2\usermod_aht10.h, usermods\Analog_Clock\Analog_Clock.h, usermods\Animated_Staircase\Animated_Staircase.h, usermods\Artemis_reciever\usermod.cpp, usermods\BH1750_v2\usermod_bh1750.h, usermods\BME280_v2\usermod_bme280.h, usermods\BME68X_v2\usermod_bme68x.h, usermods\Battery\battery_defaults.h, usermods\Battery\usermod_v2_Battery.h, usermods\Cronixie\usermod_cronixie.h, usermods\DHT\usermod_dht.h, usermods\EXAMPLE_v2\usermod_v2_example.h, usermods\EleksTube_IPS\TFTs.h, usermods\EleksTube_IPS\usermod_elekstube_ips.h, usermods\Enclosure_with_OLED_temp_ESP07\usermod.cpp, usermods\Enclosure_with_OLED_temp_ESP07\usermod_bme280.cpp, usermods\Fix_unreachable_netservices_v2\usermod_Fix_unreachable_netservices.h, usermods\INA226_v2\usermod_ina226.h, usermods\Internal_Temperature_v2\usermod_internal_temperature.h, usermods\LD2410_v2\usermod_ld2410.h, usermods\LDR_Dusk_Dawn_v2\usermod_LDR_Dusk_Dawn_v2.h, usermods\MAX17048_v2\usermod_max17048.h, usermods\MY9291\usermode_MY9291.h, usermods\PIR_sensor_switch\usermod_PIR_sensor_switch.h, usermods\PWM_fan\usermod_PWM_fan.h, usermods\RTC\usermod_rtc.h, usermods\RelayBlinds\usermod.cpp, usermods\SN_Photoresistor\usermod_sn_photoresistor.h, usermods\SN_Photoresistor\usermods_list.cpp, usermods\ST7789_display\ST7789_display.h, usermods\Si7021_MQTT_HA\usermod_si7021_mqtt_ha.h, usermods\TTGO-T-Display\usermod.cpp, usermods\Temperature\usermod_temperature.h, usermods\TetrisAI_v2\usermod_v2_tetrisai.h, usermods\VL53L0X_gestures\usermod_vl53l0x_gestures.h, usermods\Wemos_D1_mini+Wemos32_mini_shield\usermod.cpp, usermods\Wemos_D1_mini+Wemos32_mini_shield\usermod_bme280.cpp, usermods\audioreactive\audio_reactive.h, usermods\audioreactive\audio_source.h, usermods\boblight\boblight.h, usermods\buzzer\usermod_v2_buzzer.h, usermods\deep_sleep\usermod_deep_sleep.h, usermods\mpu6050_imu\usermod_gyro_surge.h, usermods\mpu6050_imu\usermod_mpu6050_imu.h, usermods\mqtt_switch_v2\usermod_mqtt_switch.h, usermods\multi_relay\usermod_multi_relay.h, usermods\photoresistor_sensor_mqtt_v1\usermod.cpp, usermods\pixels_dice_tray\led_effects.h, usermods\pixels_dice_tray\pixels_dice_tray.h, usermods\pixels_dice_tray\tft_menu.h, usermods\pov_display\usermod_pov_display.h, usermods\project_cars_shiftlight\wled06_usermod.ino, usermods\pwm_outputs\usermod_pwm_outputs.h, usermods\quinled-an-penta\quinled-an-penta.h, usermods\rgb-rotary-encoder\rgb-rotary-encoder.h, usermods\sd_card\usermod_sd_card.h, usermods\sensors_to_mqtt\usermod_v2_SensorsToMqtt.h, usermods\seven_segment_display\usermod_v2_seven_segment_display.h, usermods\seven_segment_display_reloaded\usermod_seven_segment_reloaded.h, usermods\smartnest\usermod_smartnest.h, usermods\stairway_wipe_basic\stairway-wipe-usermod-v2.h, usermods\usermod_rotary_brightness_color\usermod_rotary_brightness_color.h, usermods\usermod_v2_HttpPullLightControl\usermod_v2_HttpPullLightControl.h, usermods\usermod_v2_RF433\usermod_v2_RF433.h, usermods\usermod_v2_animartrix\usermod_v2_animartrix.h, usermods\usermod_v2_auto_save\usermod_v2_auto_save.h, usermods\usermod_v2_brightness_follow_sun\usermod_v2_brightness_follow_sun.h, usermods\usermod_v2_four_line_display_ALT\usermod_v2_four_line_display_ALT.h, usermods\usermod_v2_klipper_percentage\usermod_v2_klipper_percentage.h, usermods\usermod_v2_ping_pong_clock\usermod_v2_ping_pong_clock.h, usermods\usermod_v2_rotary_encoder_ui_ALT\usermod_v2_rotary_encoder_ui_ALT.h, usermods\usermod_v2_word_clock\usermod_v2_word_clock.h, usermods\wireguard\wireguard.h, usermods\wizlights\wizlights.h, usermods\word-clock-matrix\usermod_word_clock_matrix.h, wled00\FX.cpp, wled00\FX.h, wled00\FX_2Dfcn.cpp, wled00\FX_fcn.cpp, wled00\FXparticleSystem.h, wled00\alexa.cpp, wled00\button.cpp, wled00\cfg.cpp, wled00\colors.cpp, wled00\dmx_input.cpp, wled00\dmx_output.cpp, wled00\e131.cpp, wled00\file.cpp, wled00\hue.cpp, wled00\image_loader.cpp, wled00\improv.cpp, wled00\ir.cpp, wled00\json.cpp, wled00\led.cpp, wled00\lx_parser.cpp, wled00\mqtt.cpp, wled00\net_debug.cpp, wled00\network.cpp, wled00\ntp.cpp, wled00\overlay.cpp, wled00\pin_manager.cpp, wled00\playlist.cpp, wled00\presets.cpp, wled00\remote.cpp, wled00\set.cpp, wled00\udp.cpp, wled00\um_manager.cpp, wled00\usermod.cpp, wled00\usermod_v2_empty.h, wled00\usermods_list.cpp, wled00\util.cpp, wled00\wled.cpp, wled00\wled_eeprom.cpp, wled00\wled_main.cpp, wled00\wled_serial.cpp, wled00\wled_server.cpp, wled00\ws.cpp, wled00\xml.cpp"
+wled_ethernet.h,,,Christian Schwinne,The global configuration variables are modified by the web interface.,https://github.com/wled-dev/WLED,,code,"wled00\cfg.cpp, wled00\network.cpp, wled00\wled.cpp, wled00\xml.cpp"

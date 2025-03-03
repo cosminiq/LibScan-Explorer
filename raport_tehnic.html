@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raport Tehnic Biblioteci</title>
+    <link rel="stylesheet" href="raport_tehnic.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Raport Tehnic Biblioteci</h1>
+            <div class="file-input-container">
+                <input type="file" id="csvFileInput" accept=".csv" />
+                <label for="csvFileInput" class="upload-btn">Încarcă fișier CSV</label>
+            </div>
+        </header>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Caută bibliotecă...">
+                <button id="searchButton">Caută</button>
+            </div>
+            <div class="filter-container">
+                <select id="sortSelect">
+                    <option value="name">Sortează după nume</option>
+                    <option value="version">Sortează după versiune</option>
+                    <option value="author">Sortează după autor</option>
+                    <option value="source">Sortează după sursă</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="content">
+            <div id="loadingIndicator" class="hidden">
+                <div class="spinner"></div>
+                <p>Se încarcă datele...</p>
+            </div>
+            
+            <div id="libraryStats" class="stats-container hidden">
+                <div class="stat-box">
+                    <h3>Total biblioteci</h3>
+                    <p id="totalLibraries">0</p>
+                </div>
+                <div class="stat-box">
+                    <h3>Biblioteci unice</h3>
+                    <p id="uniqueLibraries">0</p>
+                </div>
+                <div class="stat-box">
+                    <h3>Cu versiuni disponibile</h3>
+                    <p id="withVersions">0</p>
+                </div>
+            </div>
+
+            <div id="libraryContainer" class="libraries-container"></div>
+            
+            <div id="noResults" class="no-results hidden">
+                <p>Nu au fost găsite biblioteci care să corespundă criteriilor de căutare.</p>
+            </div>
+            
+            <div id="initialMessage" class="initial-message">
+                <p>Încarcă un fișier CSV pentru a vizualiza bibliotecile.</p>
+            </div>
+        </div>
+        
+        <div id="detailModal" class="modal hidden">
+            <div class="modal-content">
+                <span class="close-button">&times;</span>
+                <h2 id="modalTitle">Detalii Bibliotecă</h2>
+                <div id="modalContent">
+                    <!-- Content will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>© 2025 Raport Tehnic Biblioteci | Generat: <span id="generationDate"></span></p>
+    </footer>
+    
+    <script src="raport_tehnic.js"></script>
+</body>
+</html>

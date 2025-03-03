@@ -1,0 +1,160 @@
+name,version,latest_version,author,description,github_url,homepage,source,files_found_in
+AXP192.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\AXP192.cpp, ESP32Marauder-master\esp32_marauder\configs.h"
+Adafruit_MAX1704X.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\esp32_marauder\BatteryInterface.h
+Adafruit_NeoPixel.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\LedInterface.h
+Arduino.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\AXP192.h, ESP32Marauder-master\esp32_marauder\BatteryInterface.h, ESP32Marauder-master\esp32_marauder\Buffer.h, ESP32Marauder-master\esp32_marauder\LedInterface.h, ESP32Marauder-master\esp32_marauder\Switches.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino, ESP32Marauder-master\esp32_marauder\flipperLED.h, ESP32Marauder-master\esp32_marauder\stickcLED.h, ESP32Marauder-master\esp32_marauder\utils.h, ESP32Marauder-master\esp32_marauder\xiaoLED.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\SimpleServer\SimpleServer.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamFiles.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncEventSource.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncEventSource.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebAuthentication.h"
+ArduinoJson.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\settings.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncJson.h"
+Assets.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\Display.h, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\configs.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+AsyncEventSource.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncEventSource.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h"
+AsyncTCP.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\esp32_marauder\EvilPortal.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\CaptivePortal\CaptivePortal.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\Filters\Filters.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\SimpleServer\SimpleServer.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamFiles.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncEventSource.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h"
+AsyncWebSocket.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h"
+AsyncWebSynchronization.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncEventSource.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.h"
+BatteryInterface.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\BatteryInterface.cpp, ESP32Marauder-master\esp32_marauder\MenuFunctions.h, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+Buffer.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\Buffer.cpp, ESP32Marauder-master\esp32_marauder\EvilPortal.h, ESP32Marauder-master\esp32_marauder\SDInterface.h, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+CommandLine.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\CommandLine.cpp, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+DNSServer.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\esp32_marauder\EvilPortal.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\CaptivePortal\CaptivePortal.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\Filters\Filters.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamFiles.ino"
+Display.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\CommandLine.h, ESP32Marauder-master\esp32_marauder\Display.cpp, ESP32Marauder-master\esp32_marauder\EvilPortal.h, ESP32Marauder-master\esp32_marauder\SDInterface.h, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino, ESP32Marauder-master\esp32_marauder\settings.h"
+EPD_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+ESP Async WebServer,2.10.4,,,"Asynchronous HTTP and WebSocket Server Library for ESP32. Supports: WebSocket, SSE, Authentication, Arduino Json 7, File Upload, Static File serving, URL Rewrite, URL Redirect, etc.",https://github.com/mathieucarbou/ESPAsyncWebServer.git,https://github.com/mathieucarbou/ESPAsyncWebServer,arduino_library_json,
+ESP8266WiFi.h,,,,,https://github.com/mathieucarbou/ESPAsyncWebServer,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\CaptivePortal\CaptivePortal.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\Filters\Filters.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\SimpleServer\SimpleServer.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamFiles.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h"
+ESPAsyncTCP.h,,,,,https://github.com/mathieucarbou/ESPAsyncWebServer,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\CaptivePortal\CaptivePortal.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\Filters\Filters.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\SimpleServer\SimpleServer.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamFiles.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncEventSource.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h"
+ESPAsyncWebServer.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\esp32_marauder\EvilPortal.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\CaptivePortal\CaptivePortal.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\Filters\Filters.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\SimpleServer\SimpleServer.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamFiles.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncEventSource.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncJson.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSynchronization.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESP_Async_WebServer.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebHandlers.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebRequest.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebResponses.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebServer.cpp"
+ESPmDNS.h,,,,,,,code,ESP32Marauder-master\MarauderOTA\MarauderOTA.ino
+EvilPortal.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\esp32_marauder\EvilPortal.cpp, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+FS.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\Buffer.h, ESP32Marauder-master\esp32_marauder\Display.h, ESP32Marauder-master\esp32_marauder\configs.h, ESP32Marauder-master\esp32_marauder\settings.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h"
+FileOpenMode.h,,,,,https://github.com/me-no-dev/ESPAsyncWebServer,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h
+FreeRTOS.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\esp32_marauder.ino
+GpsInterface.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\esp32_marauder\GpsInterface.cpp, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+HX8357D_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Hash.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncEventSource.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.h"
+ILI9163_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+ILI9341_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+ILI9481_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+ILI9486_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+ILI9488_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+JPEGDecoder.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\Display.h
+LedInterface.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\CommandLine.h, ESP32Marauder-master\esp32_marauder\LedInterface.cpp, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+LinkedList.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\Display.h, ESP32Marauder-master\esp32_marauder\EvilPortal.h, ESP32Marauder-master\esp32_marauder\GpsInterface.h, ESP32Marauder-master\esp32_marauder\configs.h"
+LittleFS.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamFiles.ino
+MenuFunctions.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\CommandLine.h, ESP32Marauder-master\esp32_marauder\MenuFunctions.cpp, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+MicroNMEA.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\GpsInterface.h
+NimBLEDevice.h,,,,,https://github.com/mathieucarbou/ESPAsyncWebServer,,code,ESP32Marauder-master\esp32_marauder\WiFiScan.h
+Print.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncJson.h
+R61581_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+RM68140_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+S6D02A1_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+SD.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\SDInterface.h
+SDInterface.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\CommandLine.h, ESP32Marauder-master\esp32_marauder\EvilPortal.h, ESP32Marauder-master\esp32_marauder\MenuFunctions.h, ESP32Marauder-master\esp32_marauder\SDInterface.cpp, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+SPI.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\Display.h
+SPIFFS.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\Display.h, ESP32Marauder-master\esp32_marauder\configs.h, ESP32Marauder-master\esp32_marauder\settings.h"
+SSD1963_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+ST7735_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+ST7789_2_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+ST7789_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+ST7796_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup10_RPi_touch_ILI9486.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup11_RPi_touch_ILI9486.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup12_M5Stack.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup135_ST7789.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup13_ILI9481_Parallel.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup14_ILI9341_Parallel.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup15_HX8357D.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup16_ILI9488_Parallel.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup17_ePaper.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup18_ST7789.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup19_RM68140_Parallel.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup1_ILI9341.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup20_ILI9488.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup21_ILI9488.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup22_TTGO_T4.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup22_TTGO_T4_v1.3.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup23_TTGO_TM.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup24_ST7789.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup25_TTGO_T_Display.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup26_TTGO_T_Wristband.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup27_RPi_ST7796_ESP32.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup28_RPi_ST7796_ESP8266.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup29_ILI9341_STM32.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup2_ST7735.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup30_ILI9341_Parallel_STM32.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup31_ST7796_Parallel_STM32.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup32_ILI9341_STM32F103.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup33_RPi_ILI9486_STM32.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup34_ILI9481_Parallel_STM32.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup35_ILI9341_STM32_Port_Bus.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup36_RPi_touch_ILI9341.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup3_ILI9163.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup43_ST7735.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup44_TTGO_CameraPlus.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup45_TTGO_T_Watch.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup4_S6D02A1.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup50_SSD1963_Parallel.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup5_RPi_ILI9486.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup6_RPi_Wr_ILI9486.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup7_ST7735_128x128.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup8_ILI9163_128x128.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+Setup9_ST7735_Overlap.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+SetupX_Template.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+SoftwareSerial.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\GpsInterface.h
+Stream.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamConcat.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamString.h"
+StreamConcat.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamFiles.ino
+StreamString.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamFiles.ino
+StringArray.h,,,,,https://github.com/me-no-dev/ESPAsyncWebServer,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h
+Switches.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\esp32_marauder\MenuFunctions.h, ESP32Marauder-master\esp32_marauder\Switches.cpp, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+TFT_eSPI.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\Display.h
+Ticker.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\Display.h
+Update.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\MarauderOTA\MarauderOTA.ino, ESP32Marauder-master\esp32_marauder\SDInterface.h"
+User_Setup.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+User_Setup_dual_nrf24.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+User_Setup_id_receiver.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+User_Setup_marauder_m5stickc.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+User_Setup_marauder_m5stickcp2.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+User_Setup_marauder_mini.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+User_Setup_marauder_rev_feather.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+User_Setup_og_marauder.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+User_Setup_pocket_sdr.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+User_Setup_pocket_sdr_2.h,,2.0.0,,A JPEG decoder library,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+WString.h,,,,,https://github.com/me-no-dev/ESPAsyncWebServer,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\StringArray.h
+Web.h,2.10.4,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\esp32_marauder\CommandLine.h
+WebAuthentication.h,,,,,https://github.com/me-no-dev/ESPAsyncWebServer,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebAuthentication.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebRequest.cpp"
+WebHandlerImpl.h,,,,,https://github.com/me-no-dev/ESPAsyncWebServer,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebHandlers.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebServer.cpp"
+WebResponseImpl.h,,,,,https://github.com/me-no-dev/ESPAsyncWebServer,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebRequest.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebResponses.cpp"
+WebServer.h,,,,,,,code,ESP32Marauder-master\MarauderOTA\MarauderOTA.ino
+WiFi.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\MarauderOTA\MarauderOTA.ino, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\CaptivePortal\CaptivePortal.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\Filters\Filters.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\SimpleServer\SimpleServer.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\examples\StreamFiles\StreamFiles.ino, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h"
+WiFiClient.h,,,,,,,code,ESP32Marauder-master\MarauderOTA\MarauderOTA.ino
+WiFiScan.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\CommandLine.h, ESP32Marauder-master\esp32_marauder\MenuFunctions.h, ESP32Marauder-master\esp32_marauder\WiFiScan.cpp, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+Wire.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\AXP192.h, ESP32Marauder-master\esp32_marauder\BatteryInterface.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+XYZZY_Defines.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\User_Setup_Select.h
+algorithm,,,,,https://github.com/mathieucarbou/ESPAsyncWebServer,,code,ESP32Marauder-master\esp32_marauder\WiFiScan.h
+cbuf.h,,,,,,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebResponses.cpp
+cencode.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebAuthentication.cpp"
+configs.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\Assets.h, ESP32Marauder-master\esp32_marauder\BatteryInterface.h, ESP32Marauder-master\esp32_marauder\CommandLine.h, ESP32Marauder-master\esp32_marauder\Display.h, ESP32Marauder-master\esp32_marauder\EvilPortal.h, ESP32Marauder-master\esp32_marauder\GpsInterface.h, ESP32Marauder-master\esp32_marauder\LedInterface.h, ESP32Marauder-master\esp32_marauder\MenuFunctions.h, ESP32Marauder-master\esp32_marauder\SDInterface.h, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino, ESP32Marauder-master\esp32_marauder\flipperLED.h, ESP32Marauder-master\esp32_marauder\lang_var.h, ESP32Marauder-master\esp32_marauder\settings.h, ESP32Marauder-master\esp32_marauder\stickcLED.h, ESP32Marauder-master\esp32_marauder\xiaoLED.h"
+cstring,,,,,https://github.com/Links2004/arduinoWebSockets,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.cpp
+deque,,,,,https://github.com/me-no-dev/ESPAsyncWebServer,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.h
+esp_bt.h,,,,,https://github.com/mathieucarbou/ESPAsyncWebServer,,code,"ESP32Marauder-master\MarauderOTA\MarauderOTA.ino, ESP32Marauder-master\esp32_marauder\WiFiScan.h"
+esp_system.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\esp32_marauder.ino
+esp_wifi.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\MarauderOTA\MarauderOTA.ino, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+esp_wifi_types.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\MarauderOTA\MarauderOTA.ino, ESP32Marauder-master\esp32_marauder\Buffer.h, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+ets_sys.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncEventSource.cpp, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.cpp"
+flipperLED.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino, ESP32Marauder-master\esp32_marauder\flipperLED.cpp"
+functional,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\Display.h, ESP32Marauder-master\esp32_marauder\configs.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h"
+icons.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\MenuFunctions.cpp
+lang_var.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\BatteryInterface.cpp, ESP32Marauder-master\esp32_marauder\Buffer.cpp, ESP32Marauder-master\esp32_marauder\Display.cpp, ESP32Marauder-master\esp32_marauder\EvilPortal.h, ESP32Marauder-master\esp32_marauder\MenuFunctions.cpp, ESP32Marauder-master\esp32_marauder\SDInterface.cpp, ESP32Marauder-master\esp32_marauder\WiFiScan.cpp, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino"
+list,,,,,https://github.com/me-no-dev/ESPAsyncWebServer,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h"
+lvgl.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\Display.h
+math.h,,,,,https://github.com/mathieucarbou/ESPAsyncWebServer,,code,ESP32Marauder-master\esp32_marauder\WiFiScan.h
+md5.h,,,,,https://github.com/me-no-dev/ESPAsyncWebServer,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebAuthentication.cpp
+memory,,,,,https://github.com/me-no-dev/ESPAsyncWebServer,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebResponseImpl.h"
+pgmspace.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,ESP32Marauder-master\esp32_marauder\Display.cpp
+regex,,,,,,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebHandlerImpl.h
+settings.h,,,,,https://github.com/Bodmer/JPEGDecoder,,code,"ESP32Marauder-master\esp32_marauder\Buffer.h, ESP32Marauder-master\esp32_marauder\CommandLine.h, ESP32Marauder-master\esp32_marauder\EvilPortal.h, ESP32Marauder-master\esp32_marauder\LedInterface.h, ESP32Marauder-master\esp32_marauder\MenuFunctions.h, ESP32Marauder-master\esp32_marauder\SDInterface.h, ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino, ESP32Marauder-master\esp32_marauder\flipperLED.h, ESP32Marauder-master\esp32_marauder\settings.cpp, ESP32Marauder-master\esp32_marauder\stickcLED.h, ESP32Marauder-master\esp32_marauder\xiaoLED.h"
+sha1.h,,,,,https://github.com/Links2004/arduinoWebSockets,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\AsyncWebSocket.cpp
+stddef.h,,,,,https://github.com/me-no-dev/ESPAsyncWebServer,,code,"ESP32Marauder-master\libraries\ESPAsyncWebServer\src\StringArray.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebHandlerImpl.h"
+stdio.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\esp32_marauder.ino
+stickcLED.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino, ESP32Marauder-master\esp32_marauder\stickcLED.cpp"
+string,,,,,,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebHandlerImpl.h
+task.h,,,,,https://github.com/espressif/arduino-esp32,,code,ESP32Marauder-master\esp32_marauder\esp32_marauder.ino
+time.h,,,,,,,code,ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebHandlerImpl.h
+utils.h,,,,,https://github.com/mathieucarbou/ESPAsyncWebServer,,code,ESP32Marauder-master\esp32_marauder\WiFiScan.h
+vector,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\utils.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\ESPAsyncWebServer.h, ESP32Marauder-master\libraries\ESPAsyncWebServer\src\WebResponseImpl.h"
+xiaoLED.h,,,,,https://github.com/espressif/arduino-esp32,,code,"ESP32Marauder-master\esp32_marauder\WiFiScan.h, ESP32Marauder-master\esp32_marauder\esp32_marauder.ino, ESP32Marauder-master\esp32_marauder\xiaoLED.cpp"
